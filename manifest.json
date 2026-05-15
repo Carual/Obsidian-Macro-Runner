@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-macro-runner",
+    "name": "Obsidian Macro Runner",
+    "version": "0.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Set obsidian to run macros.",
+    "author": "Carual",
+    "authorUrl": "https://github.com/Carual",
+    "isDesktopOnly": false
+}
